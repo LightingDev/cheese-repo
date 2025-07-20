@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A simple demo package for Cheese that prints Hello World.",
+  "entry": "hello.py",
+  "author": "LightingDev AKA Yixuan",
+  "license": "MIT"
+}
