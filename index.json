@@ -1,0 +1,10 @@
+{
+  "hello": {
+    "version": "1.0.0",
+    "platforms": {
+      "linux": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/hello/hello-1.0.0-linux.zip",
+      "darwin": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/hello/hello-1.0.0-darwin.zip",
+      "windows": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/hello/hello-1.0.0-windows.zip"
+    }
+  }
+}
