@@ -1,0 +1,8 @@
+{
+  "name": "fishyOS",
+  "version": "0.0.1",
+  "description": "A simple MS-DOS sim.",
+  "entry": "main.py",
+  "author": "Jadon Tan",
+  "license": "MIT"
+}
