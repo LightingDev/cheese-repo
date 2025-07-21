@@ -11,7 +11,7 @@
     },
     "pyrus": {
       "version": "1.0.0",
-      "entry": "hello.py",
+      "entry": "pyrus.py",
       "files": {
         "pyrus.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/pyrus.py",
         "requirements.txt": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/requirements.txt",
