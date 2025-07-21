@@ -1,0 +1,8 @@
+{
+  "name": "pyrus",
+  "version": "1.0.0",
+  "description": "A virus creation software (this is not to educate onto creating malicious code.) in python.",
+  "entry": "hello.py",
+  "author": "pyrus team",
+  "license": "MIT"
+}
