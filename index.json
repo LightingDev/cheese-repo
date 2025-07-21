@@ -9,11 +9,11 @@
         "meta.json": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/hello/meta.json"
       }
     },
-    "hello": {
+    "pyrus": {
       "version": "1.0.0",
       "entry": "hello.py",
       "files": {
-        "hello.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/pyrus.py",
+        "pyrus.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/pyrus.py",
         "requirements.txt": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/requirements.txt",
         "meta.json": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/meta.json"
       }
