@@ -23,8 +23,8 @@
       "entry": "main.py",
       "files": {
         "main.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/main.py",
-        "requirements.txt": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/requirements.txt",
-        "meta.json": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/pyrus/meta.json",
+        "requirements.txt": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/requirements.txt",
+        "meta.json": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/meta.json",
         "commands.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/commands.py",
         "apps.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/apps.py",
         "store.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/store.py",
