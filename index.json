@@ -29,6 +29,14 @@
         "apps.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/apps.py",
         "store.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/store.py",
         "utils.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/fishyos/utils.py"
+      },
+      "getpipformac": {
+        "version": "0.1.0",
+        "entry": "main.py",
+        "files": {
+          "main.py": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/getpipformac/main.py",
+          "requirements.txt": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/getpipformac/requirements.txt",
+          "meta.json": "https://raw.githubusercontent.com/LightingDev/cheese-repo/main/packages/getpipformac/meta.json"
       }
     }
   }
