@@ -1,0 +1,8 @@
+{
+  "name": "getpipformac",
+  "version": "0.1.0",
+  "description": "A method to get pip (NOT OFFICIAL).",
+  "entry": "main.py",
+  "author": "Python",
+  "license": "PSFL"
+}
