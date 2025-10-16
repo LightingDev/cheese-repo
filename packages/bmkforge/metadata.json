@@ -1,0 +1,8 @@
+{
+  "name": "bmkforge",
+  "version": "0.0.1",
+  "description": "A modern cpu benchmarker",
+  "entry": "main.py",
+  "author": "LightingDev",
+  "license": "MIT"
+}
